@@ -1,0 +1,385 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'poppins',sans-serif;
+}
+
+
+
+.aku-course-inputbox1 input#aku-course-btn1 {
+  position: absolute;
+  top: 190px;
+  margin-left: 210px;
+    border: none;
+    background: whitesmoke;
+    /* background:linear-gradient(315deg, #74d1f3 35%, #d5e3f0 0.75%); */
+    color: rgb(238, 238, 238);
+    font-size: 3.1em;
+    border-radius: .55em;
+    cursor: pointer;
+    color: black;
+  }
+   .aku-course-inputbox1 input {
+    position: absolute;
+    /* width: 30%; */
+   padding: 10px 75px;
+    outline: none;
+    border: 2px solid rgb(0, 0, 0);
+    font-size: 1em;
+    font-weight: bolder;
+    
+    /* color: rgba(0, 0, 0, 0.618); */
+    box-shadow: 0 10px 20px rgba(46, 45, 45, 0.688);
+  }
+  
+  @media screen and (max-width: 480px){
+    .aku-course-inputbox1 input#aku-course-btn1{
+      position: absolue;
+      top: 120px;
+      right: 55px;
+    }
+    .aku-course-inputbox1 input {
+    position: absolute;
+    width: 70%;
+    padding: 10px 35px;
+    outline: none;
+    border: 2px solid rgb(0, 0, 0);
+    font-size: 2em;
+    font-weight: bolder;
+    
+    /* color: rgba(0, 0, 0, 0.618); */
+    box-shadow: 0 10px 20px rgba(46, 45, 45, 0.688);
+  }
+}
+
+
+
+.aku-course-inputbox2 input#aku-course-btn2 {
+  position: absolute;
+  top: 315px;
+  margin-left: 210px;
+    border: none;
+    background: whitesmoke;
+    /* background:linear-gradient(315deg, #74d1f3 35%, #d5e3f0 0.75%); */
+    color: rgb(238, 238, 238);
+    font-size: 3.1em;
+    border-radius: .55em;
+    cursor: pointer;
+    color: black;
+  }
+   .aku-course-inputbox2 input {
+    position: absolute;
+    /* width: 30%; */
+   padding: 10px 65px;
+    outline: none;
+    border: 2px solid rgb(0, 0, 0);
+    font-size: 1em;
+    font-weight: bolder;
+    
+    /* color: rgba(0, 0, 0, 0.618); */
+    box-shadow: 0 10px 20px rgba(46, 45, 45, 0.688);
+  }
+  
+  @media screen and (max-width: 480px){
+    .aku-course-inputbox2 input#aku-course-btn2{
+      position: absolue;
+      top: 210px;
+      right: 55px;
+    }
+    .aku-course-inputbox2 input {
+    position: absolute;
+    width: 70%;
+    padding: 10px 35px;
+    outline: none;
+    border: 2px solid rgb(0, 0, 0);
+    font-size: 2em;
+    font-weight: bolder;
+    
+    /* color: rgba(0, 0, 0, 0.618); */
+    box-shadow: 0 10px 20px rgba(46, 45, 45, 0.688);
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.aku-course-inputbox3 input#aku-course-btn3 {
+  position: absolute;
+  top: 190px;
+  margin-left: 610px;
+    border: none;
+    background: whitesmoke;
+    /* background:linear-gradient(315deg, #74d1f3 35%, #d5e3f0 0.75%); */
+    color: rgb(238, 238, 238);
+    font-size: 3.1em;
+    border-radius: .55em;
+    cursor: pointer;
+    color: black;
+  }
+   .aku-course-inputbox3 input {
+    position: absolute;
+    /* width: 30%; */
+    padding: 10px 65px;
+    outline: none;
+    border: 2px solid rgb(0, 0, 0);
+    font-size: 1em;
+    font-weight: bolder;
+    
+    /* color: rgba(0, 0, 0, 0.618); */
+    box-shadow: 0 10px 20px rgba(46, 45, 45, 0.688);
+  }
+  
+  @media screen and (max-width: 480px){
+    .aku-course-inputbox3 input#aku-course-btn3{
+      position: absolue;
+      top: 303px;
+      right: 55px;
+    }
+    .aku-course-inputbox3 input {
+    position: absolute;
+    width: 70%;
+    padding: 10px 35px;
+    outline: none;
+    border: 2px solid rgb(0, 0, 0);
+    font-size: 2em;
+    font-weight: bolder;
+    
+    /* color: rgba(0, 0, 0, 0.618); */
+    box-shadow: 0 10px 20px rgba(46, 45, 45, 0.688);
+  }
+}
+
+
+
+
+
+
+
+
+
+
+.aku-course-inputbox4 input#aku-course-btn4 {
+  position: absolute;
+  top:315px;
+  margin-left: 610px;
+    border: none;
+    background: whitesmoke;
+    /* background:linear-gradient(315deg, #74d1f3 35%, #d5e3f0 0.75%); */
+    color: rgb(238, 238, 238);
+    font-size: 3.1em;
+    border-radius: .55em;
+    cursor: pointer;
+    color: black;
+  }
+   .aku-course-inputbox4 input {
+    position: absolute;
+    /* width: 30%; */
+   padding: 10px 65px;
+    outline: none;
+    border: 2px solid rgb(0, 0, 0);
+    font-size: 1em;
+    font-weight: bolder;
+    
+    /* color: rgba(0, 0, 0, 0.618); */
+    box-shadow: 0 10px 20px rgba(46, 45, 45, 0.688);
+  }
+  
+  @media screen and (max-width: 480px){
+    .aku-course-inputbox4 input#aku-course-btn4{
+      position: absolue;
+      top: 395px;
+      right: 55px;
+    }
+    .aku-course-inputbox4 input {
+    position: absolute;
+    width: 70%;
+    padding: 10px 35px;
+    outline: none;
+    border: 2px solid rgb(0, 0, 0);
+    font-size: 2em;
+    font-weight: bolder;
+    
+    /* color: rgba(0, 0, 0, 0.618); */
+    box-shadow: 0 10px 20px rgba(46, 45, 45, 0.688);
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+.aku-course-inputbox5 input#aku-course-btn5 {
+  position: absolute;
+  top:190px;
+  margin-left: 910px;
+    border: none;
+    background: whitesmoke;
+    /* background:linear-gradient(315deg, #74d1f3 35%, #d5e3f0 0.75%); */
+    color: rgb(238, 238, 238);
+    font-size: 3.1em;
+    border-radius: .55em;
+    cursor: pointer;
+    color: black;
+  }
+   .aku-course-inputbox5 input {
+    position: absolute;
+    /* width: 30%; */
+   padding: 10px 65px;
+    outline: none;
+    border: 2px solid rgb(0, 0, 0);
+    font-size: 1em;
+    font-weight: bolder;
+    
+    /* color: rgba(0, 0, 0, 0.618); */
+    box-shadow: 0 10px 20px rgba(46, 45, 45, 0.688);
+  }
+  
+  @media screen and (max-width: 480px){
+    .aku-course-inputbox5 input#aku-course-btn5{
+      position: absolue;
+      top: 487px;
+      right: 55px;
+    }
+    .aku-course-inputbox5 input {
+    position: absolute;
+    width: 70%;
+    padding: 10px 35px;
+    outline: none;
+    border: 2px solid rgb(0, 0, 0);
+    font-size: 2em;
+    font-weight: bolder;
+    
+    /* color: rgba(0, 0, 0, 0.618); */
+    box-shadow: 0 10px 20px rgba(46, 45, 45, 0.688);
+  }
+}
+
+
+
+
+
+.aku-course-inputbox6 input#aku-course-btn6 {
+  position: absolute;
+  top:315px;
+  margin-left: 910px;
+    border: none;
+    background: whitesmoke;
+    /* background:linear-gradient(315deg, #74d1f3 35%, #d5e3f0 0.75%); */
+    color: rgb(238, 238, 238);
+    font-size: 3.1em;
+    border-radius: .55em;
+    cursor: pointer;
+    color: black;
+  }
+   .aku-course-inputbox6 input {
+    position: absolute;
+    /* width: 30%; */
+   padding: 10px 65px;
+    outline: none;
+    border: 2px solid rgb(0, 0, 0);
+    font-size: 1em;
+    font-weight: bolder;
+    
+    /* color: rgba(0, 0, 0, 0.618); */
+    box-shadow: 0 10px 20px rgba(46, 45, 45, 0.688);
+  }
+  
+  @media screen and (max-width: 480px){
+    .aku-course-inputbox6 input#aku-course-btn6{
+      position: absolue;
+      top: 580px;
+      right: 55px;
+    }
+    .aku-course-inputbox6 input {
+    position: absolute;
+    width: 70%;
+    padding: 10px 35px;
+    outline: none;
+    border: 2px solid rgb(0, 0, 0);
+    font-size: 2em;
+    font-weight: bolder;
+    
+    /* color: rgba(0, 0, 0, 0.618); */
+    box-shadow: 0 10px 20px rgba(46, 45, 45, 0.688);
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   .aku-course-inputbox-bba input#aku-course-bba {
+    position: absolute;
+    top:315px;
+    margin-left: 610px;
+      border: none;
+      background: whitesmoke;
+      /* background:linear-gradient(315deg, #74d1f3 35%, #d5e3f0 0.75%); */
+      color: rgb(238, 238, 238);
+      font-size: 3.1em;
+      border-radius: .55em;
+      cursor: pointer;
+      color: black;
+    }
+     .aku-course-inputbox-bba input {
+      position: absolute;
+      /* width: 30%; */
+     padding: 10px 45px;
+      outline: none;
+      border: 2px solid rgb(0, 0, 0);
+      font-size: 1em;
+      font-weight: bolder;
+      
+      /* color: rgba(0, 0, 0, 0.618); */
+      box-shadow: 0 10px 20px rgba(46, 45, 45, 0.688);
+    }
+    
+    @media screen and (max-width: 480px){
+      .aku-course-inputbox-bba input#aku-course-bba{
+        position: absolue;
+        top: 395px;
+        right: 55px;
+      }
+      .aku-course-inputbox-bba input {
+      position: absolute;
+      width: 70%;
+      padding: 10px 35px;
+      outline: none;
+      border: 2px solid rgb(0, 0, 0);
+      font-size: 2em;
+      font-weight: bolder;
+      
+      /* color: rgba(0, 0, 0, 0.618); */
+      box-shadow: 0 10px 20px rgba(46, 45, 45, 0.688);
+    }
+  }
+  

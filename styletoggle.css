@@ -1,0 +1,9 @@
+
+i{
+    font-size: 50px;
+    cursor: pointer;
+    position: absolute;
+    top: -15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+  }
+  
+  
+  
+  
+  .inputbox input#btn {
+  position: absolute;
+  top: 15px;
+  margin-left: 210px;
+    border: none;
+    background: whitesmoke;
+    
+    color: rgb(238, 238, 238);
+    font-size: 3.1em;
+    border-radius: .55em;
+    cursor: pointer;
+    color: black;
+  }
+   .inputbox input {
+    position: absolute;
+    /* width: 30%; */
+    padding: 10px 65px;
+    outline: none;
+    border: 2px solid rgb(0, 0, 0);
+    font-size: 1em;
+    font-weight: bolder;
+    
+    /* color: rgba(0, 0, 0, 0.618); */
+    box-shadow: 0 10px 20px rgba(46, 45, 45, 0.688);
+  }
+  
+  @media screen and (max-width: 480px){
+    .inputbox input#btn {
+      position: absolue;
+      top: 230px;
+      right: 10px;
+    }
+    .inputbox input {
+    position: absolute;
+    width: 70%;
+    padding: 10px 35px;
+    outline: none;
+    border: 2px solid rgb(0, 0, 0);
+    font-size: 2em;
+    font-weight: bolder;
+    
+    /* color: rgba(0, 0, 0, 0.618); */
+    box-shadow: 0 10px 20px rgba(46, 45, 45, 0.688);
+  }
+  
+  }
+  
+  
+  
+  
+  
+  
+  .inputbox2 input#btn2 {
+    position: absolute;
+    top: 130px;
+    margin-left: 210px;
+      border: none;
+      background: whitesmoke;
+      /* background:linear-gradient(315deg, #74d1f3 35%, #d5e3f0 0.75%); */
+      color: rgb(238, 238, 238);
+      font-size: 3.1em;
+      border-radius: .55em;
+      cursor: pointer;
+      color: black;
+    }
+     .inputbox2 input {
+      position: absolute;
+      /* width: 30%; */
+      padding: 10px 65px;
+      outline: none;
+      border: 2px solid rgb(0, 0, 0);
+      font-size: 1em;
+      font-weight: bolder;
+      
+      /* color: rgba(0, 0, 0, 0.618); */
+      box-shadow: 0 10px 20px rgba(46, 45, 45, 0.688);
+    }
+    
+    @media screen and (max-width: 480px){
+      .inputbox2 input#btn2 {
+        position: absolute;
+      top: 320px;
+      right: 10px;
+      }
+      .inputbox2 input {
+      position: absolute;
+      width: 70%;
+      padding: 10px 35px;
+      outline: none;
+      border: 2px solid rgb(0, 0, 0);
+      font-size: 2em;
+      font-weight: bolder;
+      box-shadow: 0 10px 20px rgba(46, 45, 45, 0.688);
+    }
+    
+    }
+    
+
+
+
+
+
+
+        
+        
+        
