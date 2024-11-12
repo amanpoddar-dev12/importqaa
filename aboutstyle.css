@@ -40,7 +40,7 @@ div.card img{
     /* border: #000000; */
     margin-top: 20px;
     margin-bottom: 60PX;
-    margin-left: 430PX;
+    margin-left: 130PX;
     width: 520px;
     
     /* box-shadow: 0 10px 20px rgba(46, 45, 45, 0.688); */
@@ -122,7 +122,7 @@ div.card img{
     div.card img{
         
         margin-bottom: 350px;
-        margin-left: 370px;
+        margin-left: 0px;
         width: 370px;
         
     }
